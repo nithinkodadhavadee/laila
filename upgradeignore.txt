@@ -1,0 +1,1 @@
+/home/somannak/applications/flutter
